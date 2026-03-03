@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url';
 global.botnumber = '';
 global.confirmCode = '';
 global.nomebot = 'Napoli-Bot';
-global.packname = 'napoli-bot';
+global.packname = 'Napoli-bot';
 global.author = 'Napoli-bot';
 global.vs = '8.7';
 global.collab = 'Demon Slayer';
