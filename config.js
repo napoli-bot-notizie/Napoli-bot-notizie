@@ -5,18 +5,18 @@ import { fileURLToPath } from 'url';
 
 global.botnumber = '';
 global.confirmCode = '';
-global.nomebot = '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭';
-global.packname = '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭';
-global.author = '𝐌𝐝';
-global.vs = '8.8';
+global.nomebot = 'Napoli-Bot';
+global.packname = 'napoli-bot';
+global.author = 'Napoli-bot';
+global.vs = '8.7;
 global.collab = 'Demon Slayer';
-global.wm = global.nomebot;
+global.wm = global.napolibot;
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 
 global.owner = [
   ['393336413960', 'creatore, true],
-  ['xxxxxxxxxx'], //mettete il vostro numero al posto delle x e copiate sopra il formato dopo ovvero 'nome', true
+  ['16625545197', 'creatore staff, true]
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
